@@ -53,7 +53,7 @@ Práctica temprana en una plataforma SaaS de contabilidad. Desarrollé interface
 ## 📫 Contacto
 
 - 📧 [bastian.abq@gmail.com](mailto:bastian.abq@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/TU-USUARIO) ← reemplaza con tu URL
+- 💼 [LinkedIn](https://www.linkedin.com/in/bastian-bustamante-3837b535b/?skipRedirect=true) ← reemplaza con tu URL
 
 ---
 
